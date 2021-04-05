@@ -1,0 +1,50 @@
+﻿@media screen and (min-width: 601px) {
+    .col-md-12 {
+        margin-top: 10%;
+    }
+
+    h1 {
+        font-family: Cabin, sans-serif;
+        font-weight: bold;
+    }
+    #légende{
+        margin-left: 43%;
+        font-size: 13px;
+    }
+
+    img {
+        margin-left: 35%;
+    }
+
+    #acc {
+        border-bottom: 1px solid white;
+    }
+
+    #paragraphe {
+        font-family: Cabin, sans-serif;
+        font-size: 24px;
+        margin-bottom: 8%;
+    }
+}
+
+@media screen and (max-width: 600px) {
+    img {
+        margin-left: 10%;
+        margin-top: 10%;
+    }
+    #légende {
+        margin-left: 35%;
+        font-size: 10px;
+        margin-bottom: 5%;
+    }
+
+    #paragraphe {
+        font-family: Cabin, sans-serif;
+        font-size: 18px;
+        margin-bottom: 5%;
+        margin-top: 5%;
+    }
+    #acc {
+        border-bottom: 1px solid white;
+    }
+}

@@ -1,0 +1,17 @@
+﻿body{
+    background-color: #CDF7B8;
+}
+
+.nav-item { /*agrandir la taille de la police de la nav bar*/
+    font-size: 24px;
+    font-family: Bree serif, serif;
+}
+
+.nav-item:hover{
+    border-bottom: 1px solid white;
+}
+
+.navbar-brand {
+    font-family: Bree serif, serif;
+}
+

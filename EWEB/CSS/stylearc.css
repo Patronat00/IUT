@@ -1,0 +1,78 @@
+﻿
+
+@media screen and (min-width: 601px) {
+    #Tour, #Exam, #Chimera, #Greed, #York, #Zol, #Elec {
+        padding: 6% 7% 3% 7%;
+        
+        
+    }
+    article {
+        font-size: 24px;
+        font-family: Cabin, sans-serif;
+    }
+
+    #hanzo {
+        margin-top: 8%;
+        margin-left: 25%;
+    }
+
+    #plan, #gonangry, #gongrand {
+        display: inline-block;
+    }
+
+    #plan {
+        margin-left: 17%;
+    }
+
+    #gonangry {
+        margin-left: 3%;
+    }
+
+    #gongrand {
+        margin-left: 3%;
+    }
+    #arc {
+        border-bottom: 1px solid white;
+    }
+    h1 {
+        font-family: Cabin, sans-serif;
+        font-weight: bold;
+    }
+    #légende{
+        font-size: 13px;
+        margin-left: 48%;
+    }
+    #légende2 {
+        font-size: 13px;
+        margin-left: 24%;
+    }
+}
+@media screen and (max-width: 600px) {
+    #first{
+        width: 83%;
+        margin-top:15%;
+        margin-left: 7%;
+    }
+
+    #Tour, #Exam, #Chimera, #Greed, #York, #Zol, #Elec {
+        padding: 6% 7% 3% 7%;
+        font-size: 18px;
+    }
+    article {
+        font-family: Cabin, sans-serif;
+    }
+
+    #plan, #gonangry, #gongrand {
+        margin-left: 15%;
+    }
+    #arc {
+        border-bottom: 1px solid white;
+    }
+    #légende {
+        font-size: 10px;
+        margin-left: 28%;
+    }
+    #légende2{
+        display:none;
+    }
+}
